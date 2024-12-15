@@ -1,10 +1,5 @@
 # 🚀 Anomaly Detection Using Autoencoders and GANs  
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red?logo=pytorch&logoColor=white)  
-![License](https://img.shields.io/badge/License-MIT-green)
-
 This repository contains my **university project** on anomaly detection, leveraging **Autoencoders** and **Generative Adversarial Networks (GANs)** to identify anomalies. This project demonstrates how deep learning models can effectively detect outliers, with applications in fields like fraud detection, fault diagnosis, and medical imaging.  
 
 ---
@@ -23,7 +18,7 @@ The combination of autoencoders and GANs creates a robust system for detecting a
 ## ⚙️ Technologies Used  
 
 - **Programming Language**: Python 🐍  
-- **Frameworks/Libraries**: TensorFlow, PyTorch  
+- **Frameworks/Libraries**: TensorFlow, scikit-learn
 - **Data Handling**: NumPy, Pandas  
 - **Visualization**: Matplotlib  
 
